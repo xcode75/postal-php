@@ -1,9 +1,9 @@
 {
-    "name": "postal/postal",
+    "name": "xcode75/postal",
     "description": "Postal for PHP library.",
     "keywords": ["postal", "mail"],
     "license": "MIT",
-    "homepage":"https://github.com/atech/postal",
+    "homepage":"https://github.com/xcode75/postal-php",
     "authors": [
         {
             "name": "Adam Cooke",
