@@ -4,6 +4,10 @@ namespace Postal;
 
 class Client
 {
+    protected $host;
+	
+	protected $serverKey;
+	
     public function __construct($host, $serverKey)
     {
         $this->host = $host;
